@@ -38,21 +38,21 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
-.about-section {
+.research-section {
     height: 80%;
     padding-top: 100px;
     text-align: center;
     background: #eee;
 }
 
-.services-section {
+.teaching-section {
     height: 80%;
     padding-top: 100px;
     text-align: center;
     background: #fff;
 }
 
-.contact-section {
+.code-section {
     height: 80%;
     padding-top: 100px;
     text-align: center;
