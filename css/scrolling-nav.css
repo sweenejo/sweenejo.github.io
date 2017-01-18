@@ -39,21 +39,21 @@ of those sections to manage the look and feel of the site. */
 }
 
 .research-section {
-    height: 100%;
+    height: 80%;
     padding-top: 100px;
     text-align: center;
     background: #eee;
 }
 
 .teaching-section {
-    height: 100%;
+    height: 80%;
     padding-top: 100px;
     text-align: center;
     background: #fff;
 }
 
 .code-section {
-    height: 100%;
+    height: 80%;
     padding-top: 100px;
     text-align: center;
     background: #eee;
